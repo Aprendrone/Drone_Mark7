@@ -24,6 +24,9 @@ En este apartado puedes encontrar el simulador del modelo basado en la plataform
 
 Corresponde al proyecto en Unity. Al importarlo en el motor podrás acceder a los assets y scripts usados para lograr la simulación.
 
+- AprenDrone Scripts:
+
+Aquí se encuentran los scripts usados en la simulación para que les puedas hechar un vistazo sin necesidad de instaalr nada. 
 
 # Tutoriales
 
