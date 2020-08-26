@@ -20,6 +20,10 @@ Aquí podrás encontrar el plano del modelo por default en formato .dft y tambi�
 
 En este apartado puedes encontrar el simulador del modelo basado en la plataforma unity.
 
+- AprenDrone.unitypackage:
+
+Corresponde al proyecto en Unity. Al importarlo en el motor podrás acceder a los assets y scripts usados para lograr la simulación.
+
 
 # Tutoriales
 
